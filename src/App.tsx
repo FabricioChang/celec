@@ -37,7 +37,7 @@ function App() {
           <Student 
             apellidos="Chang Encalada"
             nombres="Fabricio Alberto"
-            paralelo="A1"
+            paralelo="P1"
           />
 
         </Grid>
